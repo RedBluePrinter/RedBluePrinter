@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @RedBluePrinter
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on EVERYTHING...
-- 📫 How to reach me "On Github"
 
-## Yes it IS the Template
+Im Bored
 
 <!---
 RedBluePrinter/RedBluePrinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
