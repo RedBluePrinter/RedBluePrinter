@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RedBluePrinter
+- 👋 Hi, I’m known as KittyCat from WorldOfMeow
 
-Im Bored
+C++/Java/Javascript Developer
 
-<!---
-RedBluePrinter/RedBluePrinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## WorldOfMeow Projects i Contributed to
+* Meow - Event driven Netty Messaging Library
